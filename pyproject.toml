@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ms-identity-web"
-version = "0.0.3"
+version = "0.0.4"
 authors = [
     { name="Alvaro Andres Bedoya", email="andresbedoyagomez@gmail.com" },
 ]
